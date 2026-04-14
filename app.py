@@ -4,7 +4,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-st.set_page_config(page_title="Beginner Finance Dashboard", layout="wide")
+st.set_page_config(
+    page_title="Finance Learning Dashboard",
+    page_icon="📊",
+    layout="wide"
+)
 
 st.title("Beginner Finance Dashboard")
 st.subheader("ACC102 Mini Assignment – Track 4")
