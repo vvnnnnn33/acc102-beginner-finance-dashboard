@@ -243,6 +243,8 @@ This product can be improved in several ways:
 
 ## 13. AI Use
 
-AI tools were used to support coding, debugging, explanation writing, and product structure design during the development of this project.
+AI tools were used during this project to support code debugging, wording improvement, and product structuring.
 
-All final code, structure, and wording were checked, tested, and revised by the student before submission.
+All final code, analysis logic, and written content were reviewed, tested, and revised by the student before submission.
+
+A fuller AI disclosure is provided at the end of the reflection report.
